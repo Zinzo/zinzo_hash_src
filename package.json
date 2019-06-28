@@ -1,0 +1,30 @@
+{
+    "author": {
+        "name": "Zinzo",
+        "email": "byedark@naver.com"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+        "fs_helper": "=0.1.11",
+        "girdle": "=0.2.3",
+        "through2": "=0.4.2"
+    },
+    "deprecated": false,
+    "description": "Add hashes to links in HTML/CSS / Customed gulp-hash-src",
+    "keywords": [
+        "zinzo",
+        "youda",
+        "MCI"
+    ],
+    "license": "MIT",
+    "main": "hash-src.js",
+    "name": "zinzo-hash-src",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zinzo/zinzo_hash_src.git"
+    },
+    "version": "0.0.1",
+    "devDependencies": {
+        "create-hash": "^1.2.0"
+    }
+}
